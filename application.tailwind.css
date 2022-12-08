@@ -1,0 +1,15 @@
+@import url('https://fonts.cdnfonts.com/css/butler');
+@import url('https://fonts.cdnfonts.com/css/permanent-marker');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo {
+    font-family: 'Butler', sans-serif;
+    font-weight: bolder;
+}
+
+.beta {
+    font-family: 'Permanent Marker', sans-serif;
+}
